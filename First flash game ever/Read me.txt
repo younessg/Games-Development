@@ -1,0 +1,5 @@
+* First Flash game "beta-version"
+* Use arrow keys to navigate and space bar to shoot
+* You will go trhough 3 levels, try to score as much as you can in order to move to the next stage!
+* Please resize your flash player or Internet browser to hide the jargon on the sides.
+* You will face some bugs!
